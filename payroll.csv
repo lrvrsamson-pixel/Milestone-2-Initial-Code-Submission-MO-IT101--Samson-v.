@@ -1,0 +1,4 @@
+EmployeeNumber,EmployeeName,Birthday,HourlyRate,Date,LoginTime,LogoutTime
+001,Juan Dela Cruz,1990-01-01,142,2023-06-01,8:00,17:00
+001,Juan Dela Cruz,1990-01-01,142,2023-06-02,8:05,16:30
+002,Juan Dela Cruz,1992-01-01,150,2023-06-01,8:00,17:00
